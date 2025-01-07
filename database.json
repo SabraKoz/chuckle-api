@@ -1,29 +1,64 @@
 {
-    "jokes": [
-      {
-        "id": 1,
-        "text": "I went to buy some camo pants but couldn’t find any.",
-        "told": false
-      },
-      {
-        "id": 2,
-        "text": "I always find elevator jokes to be uplifting.",
-        "told": false
-      },
-      {
-        "id": 3,
-        "text": "Most people are shocked when they find out how bad I am as an electrician.",
-        "told": true
-      },
-      {
-        "id": 4,
-        "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
-        "told": false
-      },
-      {
-        "id": 5,
-        "text": "I failed math so many times at school, I can’t even count",
-        "told": true
-      }
-    ]
-  }
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": true
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": true
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": true
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": true
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "id": 6,
+      "text": "I tried to walk into a Target, but I missed.",
+      "told": false
+    },
+    {
+      "id": 7,
+      "text": "My fake plants died because I forgot to fake water them",
+      "told": false
+    },
+    {
+      "id": 8,
+      "text": "I'm against picketing, but I don't know how to show it",
+      "told": false
+    },
+    {
+      "id": 9,
+      "text": "I haven't slept for ten days, because that would be too long",
+      "told": false
+    },
+    {
+      "id": 10,
+      "text": "I was addicted to the Hokey Pokey, but I turned myself around",
+      "told": false
+    },
+    {
+      "id": 11,
+      "text": "I don't trust stairs because they're always up to something",
+      "told": false
+    },
+    {
+      "id": 12,
+      "text": "I used to play piano by ear, but now I use my hands",
+      "told": false
+    }
+  ]
+}
